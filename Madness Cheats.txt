@@ -1,0 +1,66 @@
+Madness Cheats
+
+Run faster = gump
+Quadruple jumps = hop 
+
+Longer reach = armstrong 
+Stronger hits = arnold 
+All enemies have explosives = apollo 
+Unlimited bullet time = newyorkminute 
+Mini gun with unlimited ammo = minnie 
+Unlimited ammo = flcl 
+All guns have a laser guide = guide 
+Temporary invincibility = willis 
+
+
+--------------------------------------------------------------------
+Hints
+--------------------------------------------------------------------
+Fire shield:
+Enable the willis code. Next, go to "Experiment". Knowing that you have invincibility on, you also have to turn on the Experiment's invincibility cheat also. Then, kill people until you get a flamethrower. Get two to be safe. Next, jump in the air and fire the flamethrower below. Quickly, press [Enter]. This should result in excess flames on the main menu. Go back to "Experiment", and you will see the flames as they appeared on the main menu. The flames cannot penetrate you; only your enemies. This cannot be used on "Tutorial" or "New Game".
+
+In order for a fire barrier to work, you must have a flame thrower. Torch some poor guy then quickly press [Enter] on "Experiment" mode. The barrier made will not affect you.
+Information in this section was contributed by Enzo Ferrari. 
+
+--------------------------------------------------------------------
+Hyper throw:
+If you have anything in your hands, turn your back to an enemy once you run out of ammo. Make sure you have your "arm" out as far as possible. Then, turn back to face the enemy and press F immediately after he turns around. Whatever you have in your hands will go out and kill just about anyone it hits. It will also usually bounce off the edge of the screen and bounce back at your feet. If you have the ax or the knife, it will embed itself in the enemy as well. Make sure whoever you are throwing at is all the way on screen first. Note: This makes "knifing around" very easy.
+
+--------------------------------------------------------------------
+Toss enemies high in the air:
+Enable the flcl code, then take out the M60 machine gun on "Experiment" mode (7 on the top row of keys). Aim it down so that you can only see the butt of the gun and part of the handle. Go toward an enemy. Enabling the willis code is also recommended. Fire multiple times. This should result in a high face down jump.
+Information in this section was contributed by Enzo Ferrari. 
+
+--------------------------------------------------------------------
+Hint: Super launch enemies:
+Enable the willis and hop codes. Go to experiment and get a bat. Summon an enemy on to the screen then jump up to the point where you are off the screen. The person should be directly below you. As they try to follow you, press F when they are below you. When it hits them on the head, they will fly high into the air. Note: Make sure it hits them on the head or nothing will happen.
+
+--------------------------------------------------------------------
+Glitches
+--------------------------------------------------------------------
+Bouncing enemies
+Go into Experiment mode and pause game play. Take off the AI mode and unlock Autospawn if it is on. Press [Keypad 8] to take out a bat and press [Space]. When the enemy is falling, hit him with the bat from downwards to upwards. He should go up in the air and come back down sideways. Keep hitting him up in the air and he should go off the screen. Every time you hit him, he will go higher.
+Information in this section was contributed by ben spears. 
+Glitch: Keep shooting:
+Enable the flcl code. Go to experiment and start shooting. When this happens, put the pointer out of the screen and the gun will still be shooting. Then, go back in. You no longer have to hold the Left Mouse Button.
+Pause game play while shooting. When you resume you do not have to click to shoot; it will automatically shoot.
+Information in this section was contributed by R.J.Smith. 
+
+-------------------------------------------------------------------- Shoot forever in a new game:
+Near the end of a level in a new game with a machine gun (or any fast shooting weapon), hold the Left Mouse Button (or any other button that shoots) until the debriefing screen appears. Then, choose what upgrade you want. Then, hold your assigned shooting button until the screen turns black. Release the button and you should still hear the shooting sound. When you start the next level, you will be shooting without holding the Left Mouse Button. To shoot your gun forever, you must first enable the minnie or flcl codes. Note: It will stop shooting when you click the Left Mouse Button. 
+
+--------------------------------------------------------------------
+Flamethrower ammunition:
+Enable the minnie code. Then, go to "Experiment", get a flamethrower, and start shooting it in any direction. While you are still shooting, press [Enter] to go back to the main menu. Then, go back to "Experiment" (with the minnie still enabled) and shoot your "minnie" gun. The ammo bar (flamethrower ammunition) at the top right of the screen goes down, and goes past the little box it is in. It will continue to go down and off screen as long as you hold the Left Mouse Button. [Screenshot] 
+
+--------------------------------------------------------------------  Flame Barrier:
+the Flame Barrier so that the entire ground is on fire. Leave and go to new game or the tutorial. The flames will still be there. Note: This makes the game lag.
+
+--------------------------------------------------------------------
+Stay in mid-air:
+Enable the apollo, willis, and the flcl codes, then start a new game. Take someone's rocket launcher, aim it under you, and shoot. The blast will bounce you up higher. Keep doing this and you can stay in the air forever. While your dig this, it is difficult to shoot the enemy; make a flame barrier first. 
+
+--------------------------------------------------------------------
+Invisibility:
+In Experiment, have the enemy AI on and auto respawn. Let them kill you. When you respawn you will be flashing for a few seconds Quickly press P and put invisibility on. If it does not work at first, try again.
+Information in this section was contributed by gradwohl2. 
