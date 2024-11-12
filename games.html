@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Flash Games</title>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        console.log('Starting fetch...');
+        fetch('https://cors-anywhere.herokuapp.com/https://raw.githubusercontent.com/KingOreoTheThird/KingOreoTheThird.github.io/main/games.json')
+            .then(response => {
+                console.log('Fetch response:', response);
+                if (!response.ok) {
+                    throw new Error('Network response was not ok ' + response.statusText);
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('Data:', data);
+                const container = document.getElementById('game-buttons');
+                data.forEach(game => {
+                    const button = document.createElement('button');
+                    button.textContent = game.name;
+                    button.onclick = function() {
+                        console.log('Loading game:', game.url);
+                        loadGame('https://cors-anywhere.herokuapp.com/' + game.url);
+                    };
+                    container.appendChild(button);
+                    console.log('Button created for:', game.name);
+                });
+            })
+            .catch(error => {
+                console.error('Error fetching games.json:', error);
+                document.getElementById('game-buttons').innerHTML = 'Error loading games: ' + error;
+            });
+    });
+
+    function loadGame(gameUrl) {
+        console.log('Button clicked:', gameUrl);
+        let ruffleReadyCheck = setInterval(function() {
+            if (window.RufflePlayer) {
+                clearInterval(ruffleReadyCheck);
+                var ruffle = window.RufflePlayer.newest();
+                var player = ruffle.createPlayer();
+                player.style.width = '850px';
+                player.style.height = '600px';
+                document.getElementById('game-container').innerHTML = '';
+                document.getElementById('game-container').appendChild(player);
+                player.load({ url: gameUrl }).then(() => {
+                    console.log('SWF file loaded successfully:', gameUrl);
+                }).catch((error) => {
+                    console.error('Error loading SWF file:', error);
+                });
+            } else {
+                console.log('RufflePlayer not ready yet...');
+            }
+        }, 100);
+    }
+    </script>
+</head>
+<body>
+    <div id="game-container"></div>
+    <div id="game-buttons"></div>
+</body>
+</html>
