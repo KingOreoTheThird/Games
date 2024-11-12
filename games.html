@@ -7,7 +7,7 @@
     <script>
     document.addEventListener('DOMContentLoaded', function () {
         console.log('Starting fetch...');
-        fetch('https://cors-anywhere.herokuapp.com/https://raw.githubusercontent.com/KingOreoTheThird/KingOreoTheThird.github.io/main/games.json')
+        fetch('https://kingoreothethird.github.io/KOP/games.json')
             .then(response => {
                 console.log('Fetch response:', response);
                 if (!response.ok) {
@@ -23,7 +23,7 @@
                     button.textContent = game.name;
                     button.onclick = function() {
                         console.log('Loading game:', game.url);
-                        loadGame('https://cors-anywhere.herokuapp.com/' + game.url);
+                        loadGame(game.url);
                     };
                     container.appendChild(button);
                     console.log('Button created for:', game.name);
